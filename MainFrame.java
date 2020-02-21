@@ -3,8 +3,6 @@
 // Assignment #:    #1
 // Due Date:        02/12/2020
 
-package hw1;
-
 import java.awt.Dimension;
 import java.awt.EventQueue;
 import java.awt.Font;
